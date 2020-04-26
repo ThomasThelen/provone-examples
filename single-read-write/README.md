@@ -53,7 +53,7 @@ The program `plot.py` used `daily-total-female-births-CA.csv` and `female-daily-
 
 ## As Minimal ProvONE
 
-![Alt text](https://raw.github.com/ThomasThelen/prov-examples/master/provone-first-representation.svg?sanitize=true)
+![Alt text](images/as-provone.svg?sanitize=true)
 
 The most basic ProvONE representation is similar to prov. The most we can do without adding anything is by using some ProvONE types that can be used to further specify _what_ things are.
 
